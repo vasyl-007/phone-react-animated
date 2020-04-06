@@ -1,0 +1,70 @@
+.header {
+  width: 260px;
+  font-size: 20px;
+  background-color: #fff;
+  margin: 0 auto;
+  padding: 10px;
+  color: #9a9aa5;
+
+  text-align: center;
+  border: 2px solid rgba(145, 145, 197, 0.404);
+  border-radius: 14px;
+  box-shadow: 4px 6px 4px rgba(0, 0, 0, 0.12), 4px 6px 8px rgba(0, 0, 0, 0.18);
+  margin-bottom: 16px;
+}
+.header:hover {
+  color: #4a4aaf;
+  transition: 0.5s linear 0.2s;
+}
+.input {
+  display: block;
+  width: 200px;
+  font-size: 20px;
+  background-color: #fff;
+  margin: 0 auto;
+  padding: 10px;
+  color: #9a9aa5;
+  text-align: center;
+  border: 2px solid rgba(145, 145, 197, 0.404);
+  border-radius: 14px;
+  box-shadow: 4px 6px 4px rgba(0, 0, 0, 0.12), 4px 6px 8px rgba(0, 0, 0, 0.18);
+}
+.input:hover {
+  color: #4040af;
+  background-color: rgb(170, 170, 170);
+}
+.liFilteredContact {
+  display: block;
+  margin: 10px 9px 10px 56px;
+  width: 280px;
+  padding: 10px;
+  font-size: 20px;
+  background-color: #fff;
+  color: #4040af;
+  color: #9a9aa5;
+  text-align: right;
+  border: 2px solid rgba(145, 145, 197, 0.404);
+  border-radius: 14px;
+  box-shadow: 4px 6px 4px rgba(0, 0, 0, 0.12), 4px 6px 8px rgba(0, 0, 0, 0.18);
+}
+.liFilteredContact:hover {
+  background-color: rgb(170, 170, 170);
+  color: white;
+}
+.ulFilteredContacts {
+  display: block;
+  margin: 10px auto;
+}
+.button {
+  width: 60px;
+  margin-right: 18px;
+  margin-left: 20px;
+  display: inline;
+  background-color: grey;
+  color: white;
+  border-radius: 4px;
+}
+.button:hover {
+  background-color: rgba(238, 105, 105, 0.952);
+  color: white;
+}
