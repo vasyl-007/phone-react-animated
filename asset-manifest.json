@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/phone-react-animated/static/css/main.ef37a4da.chunk.css",
+    "main.js": "/phone-react-animated/static/js/main.8d589b3a.chunk.js",
+    "main.js.map": "/phone-react-animated/static/js/main.8d589b3a.chunk.js.map",
+    "runtime-main.js": "/phone-react-animated/static/js/runtime-main.7a9f10bf.js",
+    "runtime-main.js.map": "/phone-react-animated/static/js/runtime-main.7a9f10bf.js.map",
+    "static/js/2.709442de.chunk.js": "/phone-react-animated/static/js/2.709442de.chunk.js",
+    "static/js/2.709442de.chunk.js.map": "/phone-react-animated/static/js/2.709442de.chunk.js.map",
+    "index.html": "/phone-react-animated/index.html",
+    "precache-manifest.74d3a5dd0c3ec463bb869147941b1efa.js": "/phone-react-animated/precache-manifest.74d3a5dd0c3ec463bb869147941b1efa.js",
+    "service-worker.js": "/phone-react-animated/service-worker.js",
+    "static/css/main.ef37a4da.chunk.css.map": "/phone-react-animated/static/css/main.ef37a4da.chunk.css.map",
+    "static/js/2.709442de.chunk.js.LICENSE.txt": "/phone-react-animated/static/js/2.709442de.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "/phone-react-animated/static/media/phone-container.3b2dbc4d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a9f10bf.js",
+    "static/js/2.709442de.chunk.js",
+    "static/css/main.ef37a4da.chunk.css",
+    "static/js/main.8d589b3a.chunk.js"
+  ]
+}
